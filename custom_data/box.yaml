@@ -1,0 +1,5 @@
+train: /home/rise/Desktop/yolov5_box/data/images/train
+val: /home/rise/Desktop/yolov5_box/data/images/valid
+
+nc: 2
+names: ['barrier', 'barrier']
