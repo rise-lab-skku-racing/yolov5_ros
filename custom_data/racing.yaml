@@ -1,5 +1,5 @@
-train: /home/rise/Desktop/yolov5_box/data/images/train
-val: /home/rise/Desktop/yolov5_box/data/images/valid
+train: /home/rise/Desktop/yolov5/data/images/train
+val: /home/rise/Desktop/yolov5/data/images/valid
 
-nc: 1
-names: ['car']
+nc: 3
+names: ['car', 'barrier_w', 'barrier_r']
